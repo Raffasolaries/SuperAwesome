@@ -1,0 +1,27 @@
+{
+  "name": "superawesome_coding_test",
+  "version": "1.0.0",
+  "description": "Nodejs coding test for SuperAwesome interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raffasolaries/SuperAwesome.git"
+  },
+  "keywords": [
+    "superawesome",
+    "test",
+    "interview"
+  ],
+  "author": "Raffaele Sollecito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raffasolaries/SuperAwesome/issues"
+  },
+  "homepage": "https://github.com/Raffasolaries/SuperAwesome#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

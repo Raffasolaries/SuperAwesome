@@ -77,4 +77,4 @@ var AnagramGroups = (path) => {
     }
 }
 
-AnagramGroups('./task/data/example1.txt');
+AnagramGroups('./task/data/example2.txt');

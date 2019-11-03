@@ -42,7 +42,8 @@ The groups should be separated by new lines and the words inside each group by c
 
 Example:
 ```
-command_to_run_your_program task/data/example.txt
+from the 'superawesome-code-challenge' folder run the command:
+node index.js
 ```
 
 Output:

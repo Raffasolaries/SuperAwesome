@@ -43,7 +43,7 @@ The groups should be separated by new lines and the words inside each group by c
 Example:
 ```
 from the 'superawesome-code-challenge' folder run the command:
-node index.js
+node index.js <example file name>
 ```
 
 Output:

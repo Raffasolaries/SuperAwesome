@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Nodejs coding test for SuperAwesome interview",
   "main": "index.js",
-  "scripts": {
-    "test": "npm run test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Raffasolaries/SuperAwesome.git"
